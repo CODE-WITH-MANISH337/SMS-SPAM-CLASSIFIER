@@ -1,4 +1,4 @@
-# 📱 SMS Spam Classifier
+# [SMS Spam Classifier Banner](image.png)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/your-username/sms-spam-classifier/main/app.py)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -99,4 +99,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with ❤️ by MANISH  JAISWAR 
+
 
